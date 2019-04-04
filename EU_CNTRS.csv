@@ -1,0 +1,73 @@
+TAIL_NUMBER,MODEL_NUMBER,DESCRIPTION,COMPANY_NAME,CODE,COUNTRY_NAME,SDF_COC_003
+SP-ENF,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENA,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENB,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENC,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENE,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENH,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENI,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENK,B737-400,BOEING 737-400,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENY,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENX,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENZ,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENW,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENV ,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+LY-FLH,B737-300,BOEING 737-300,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-SPA,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-SPB,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-SPC,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-SPK,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+LY-SPJ,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-HAD,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+LY-SPH,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+LY-SPE,B737-300,BOEING 737-300,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-SPI,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-ENU,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+LY-SPD,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+SP-HAG,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+LY-AQV,B737-300,BOEING 737-300,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-FLJ,B737-300,BOEING 737-300,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-AQX,B737-300,BOEING 737-300,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+SP-KTR,ATR42-300,ATR 42-300,OLT Express Regional Sp. z o.o.,PL,Poland,T
+SP-KTF,ATR42-300,ATR 42-300,OLT Express Regional Sp. z o.o.,PL,Poland,T
+SP-OLH,ATR72-200,ATR 72-200,OLT Express Regional Sp. z o.o.,PL,Poland,T
+SP-OLL,ATR72-200,ATR 72-200,OLT Express Regional Sp. z o.o.,PL,Poland,T
+LY-FLC,B737-300,BOEING 737-300,SMALL PLANET AIRLINES S.r.l.,IT,Italy,T
+LY-FLE,B737-300,BOEING 737-300,SMALL PLANET AIRLINES S.r.l.,IT,Italy,T
+SP-HAH,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-ENT,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENR,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENQ,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-HAI,A320,AIRBUS A320,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+LY-SPF,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+XU-802 (LY-SPG),A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+D-ABDB,A320,AIRBUS A320,Small Planet Airlines GmbH,DE,Germany,T
+D-ASPG,A320,AIRBUS A320,Small Planet Airlines GmbH,DE,Germany,T
+N/A,B737-400,BOEING 737-400,"FL TECHNICS, UAB",LT,Lithuania,T
+857946,B737-400,BOEING 737-400,"FL TECHNICS, UAB",LT,Lithuania,T
+SP-ENO,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+SP-ENP,B737-800,BOEING 737-800,Enter Air Sp. z o.o.,PL,Poland,T
+B78,A320,AIRBUS A320,"FL TECHNICS, UAB",LT,Lithuania,T
+HS-KMB,B737-400,BOEING 737-400,Storm Aviation Cyprus Ltd.,CY,Cyprus,T
+HS-KMA,B737-400,BOEING 737-400,Storm Aviation Cyprus Ltd.,CY,Cyprus,T
+LY-CGC,B737-400,BOEING 737-400,UAB �Grand Cru Airlines�,LT,Lithuania,T
+LY-LGC,B737-300,BOEING 737-300,UAB �Grand Cru Airlines�,LT,Lithuania,T
+LY-GGC,B737-300,BOEING 737-300,UAB �Grand Cru Airlines�,LT,Lithuania,T
+LY-MGC,B737-400,BOEING 737-400,UAB �Grand Cru Airlines�,LT,Lithuania,T
+LY-PGC,B737-400,BOEING 737-400,UAB �Grand Cru Airlines�,LT,Lithuania,T
+HS-KMC,B737-400,BOEING 737-400,Storm Aviation Cyprus Ltd.,CY,Cyprus,T
+VP-BYJ,B737-500,BOEING 737-500,Dikkys Investments Limited,CY,Cyprus,T
+LY-ONJ,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+LY-ONL,A320,AIRBUS A320,"SMALL PLANET AIRLINES, UAB",LT,Lithuania,T
+D-ASPI,A320,AIRBUS A320,Small Planet Airlines GmbH,DE,Germany,T
+LY-GTW,B737-400,BOEING 737-400,UAB �Grand Cru Airlines�,LT,Lithuania,T
+D-ASPC,A321,AIRBUS A321,Small Planet Airlines GmbH,DE,Germany,T
+D-ASPD,A321,AIRBUS A321,Small Planet Airlines GmbH,DE,Germany,T
+SP-HAU,A321,AIRBUS A321,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-HAV,A321,AIRBUS A321,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-HAW,A321,AIRBUS A321,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-HAX,A321,AIRBUS A321,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-HAY,A321,AIRBUS A321,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+SP-HAZ,A321,AIRBUS A321,Small Planet Airlines Sp. z o.o.,PL,Poland,T
+D-ASPE,A320,AIRBUS A320,Small Planet Airlines GmbH,DE,Germany,T
+D-ASPF,A320,AIRBUS A320,Small Planet Airlines GmbH,DE,Germany,T
